@@ -1,0 +1,4 @@
+repository "proje2@Mehmet_Kaan_elik@cloud"
+  path "/"
+    br "/main"
+    co "/main"
